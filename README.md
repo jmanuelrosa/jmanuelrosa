@@ -1,12 +1,27 @@
 # Jose Manuel Rosa Moncayo
 
-I'm building, working at **[Didomi](https://didomi.io)**, teaching web development when I can, and living full-time in a van.
+Senior software engineer at **[Didomi](https://didomi.io)**. I teach when I can, build side projects after hours, and live in a van full-time.
+
+<!-- Update this line whenever it stops being true. -->
+> **Now (May 2026):** Shipping updates to `triage` and `trakdown`. Picking up Swift in earnest.
 
 ## What I'm building right now
 
-- **[triage](https://github.com/jmanuelrosa/triage)** — Send every clicked link to the right browser and Chrome profile, automatically. Native macOS menu-bar app, rules in YAML.
-- **[trakdown](https://github.com/jmanuelrosa/trakdown)** — Capture any web page as clean markdown for your LLM context — even pages behind a login.
-- **[dotfiles](https://github.com/jmanuelrosa/dotfiles)** — Reproducible Mac setup, scripted end to end.
+<p>
+  <a href="https://github.com/jmanuelrosa/triage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=triage&hide_border=true" alt="triage" /></a>
+  <a href="https://github.com/jmanuelrosa/trakdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=trakdown&hide_border=true" alt="trakdown" /></a>
+  <a href="https://github.com/jmanuelrosa/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=dotfiles&hide_border=true" alt="dotfiles" /></a>
+</p>
+
+## Where I'm useful
+
+- **Full-stack TypeScript apps that need to actually ship.** React, Astro, Hono, Fastify, Node, plus the Terraform underneath. 14 years of doing this without dropping production.
+- **Native macOS utilities.** Swift menu-bar apps with Homebrew distribution. I run my own dogfood ([triage](https://github.com/jmanuelrosa/triage), [trakdown](https://github.com/jmanuelrosa/trakdown)).
+- **Explaining things to working engineers.** I wrote Vue.js and Node.js courses for [OpenWebinars](https://openwebinars.net). I'm good at turning fuzzy understanding into shipped code.
+
+**Probably not your person for** native iOS/Android apps, ML training pipelines, or design from a blank canvas.
+
+## Tech I reach for
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -19,16 +34,25 @@ I'm building, working at **[Didomi](https://didomi.io)**, teaching web developme
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+## A few numbers
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jmanuelrosa&show_icons=true&hide_border=true&hide=stars,issues" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelrosa&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
 ---
 
-I've been shipping code for over 14 years. At **Didomi**, I work across the full stack of a GTM server-side platform — from the React frontend and API layer down to infrastructure-as-code with Terraform. Before that, I built and taught courses on Vue.js and Node.js for [OpenWebinars](https://openwebinars.net).
+At Didomi I work across the full stack of a GTM server-side platform: React on the frontend, the API layer in between, Terraform underneath. On the side I build tools I'd actually want to use myself. A macOS link router. A web-to-markdown grabber for AI context. Apps for private communities. A pickleball matchmaker.
 
-On the side, I'm always building something — from [SaveIt](https://github.com/jmanuelrosa/saveit) to apps for private communities, web games, pickleball matchmaking, and lately a small line of native macOS utilities.
-
-When I'm not at a keyboard, I'm probably driving somewhere new or in the middle of the mountains. I've been living and working in my van for a few years now — it turns out most of the world has decent WiFi if you know where to look.
+When I'm not at a keyboard I'm somewhere in the mountains or driving toward them. I've been living and working in my van for a few years now, and it turns out most of the world has decent WiFi if you know where to look.
 
 ---
 
-I'm always open to conversations — whether you're looking for technical advice, thinking about a collaboration, or just want to trade notes on building things on the web.
+## Get in touch
 
-**[LinkedIn](https://www.linkedin.com/in/jmanuelrosa/)** · **[Email](mailto:josemanuel.rosamoncayo+github@gmail.com)**
+- **Consulting, advisory, or fractional work.** Email me with project context and timeline.
+- **Want to contribute to triage, trakdown, or anything else here.** Open an issue or a PR on the repo. I read everything.
+- **Just want to trade notes.** LinkedIn DMs are open.
+
+[**Email**](mailto:josemanuel.rosamoncayo+github@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/jmanuelrosa/)
