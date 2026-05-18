@@ -1,10 +1,15 @@
 # Jose Manuel Rosa Moncayo
 
-I'm building, and working **[Didomi](https://didomi.io)**, teach web development when I can, and live full-time in a van.
+I'm building, working at **[Didomi](https://didomi.io)**, teaching web development when I can, and living full-time in a van.
 
-I've been shipping code for over 14 years. These days that mostly means TypeScript, React, Astro, and Hono - plus the Terraform that holds it all together.
+## What I'm building right now
+
+- **[triage](https://github.com/jmanuelrosa/triage)** — Send every clicked link to the right browser and Chrome profile, automatically. Native macOS menu-bar app, rules in YAML.
+- **[trakdown](https://github.com/jmanuelrosa/trakdown)** — Capture any web page as clean markdown for your LLM context — even pages behind a login.
+- **[dotfiles](https://github.com/jmanuelrosa/dotfiles)** — Reproducible Mac setup, scripted end to end.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
@@ -16,14 +21,14 @@ I've been shipping code for over 14 years. These days that mostly means TypeScri
 
 ---
 
-At **Didomi**, I work across the full stack of a GTM server-side platform - from the React frontend and API layer down to infrastructure-as-code with Terraform. Before that, I built and taught courses on Vue.js and Node.js for [OpenWebinars](https://openwebinars.net).
+I've been shipping code for over 14 years. At **Didomi**, I work across the full stack of a GTM server-side platform — from the React frontend and API layer down to infrastructure-as-code with Terraform. Before that, I built and taught courses on Vue.js and Node.js for [OpenWebinars](https://openwebinars.net).
 
-On the side, I'm always building something - from [SaveIt](https://github.com/jmanuelrosa/saveit) to apps for private communities, web games or pickleball matchmaking.
+On the side, I'm always building something — from [SaveIt](https://github.com/jmanuelrosa/saveit) to apps for private communities, web games, pickleball matchmaking, and lately a small line of native macOS utilities.
 
-When I'm not at a keyboard, I'm probably driving somewhere new or in the middle of the mountains. I've been living and working in my van for a few years now - it turns out most of the world has decent WiFi if you know where to look.
+When I'm not at a keyboard, I'm probably driving somewhere new or in the middle of the mountains. I've been living and working in my van for a few years now — it turns out most of the world has decent WiFi if you know where to look.
 
 ---
 
-I'm always open to conversations - whether you're looking for technical advice, thinking about a collaboration, or just want to trade notes on building things on the web.
+I'm always open to conversations — whether you're looking for technical advice, thinking about a collaboration, or just want to trade notes on building things on the web.
 
 **[LinkedIn](https://www.linkedin.com/in/jmanuelrosa/)** · **[Email](mailto:josemanuel.rosamoncayo+github@gmail.com)**
