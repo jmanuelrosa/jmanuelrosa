@@ -7,11 +7,9 @@ Senior software engineer at **[Didomi](https://didomi.io)**. I teach when I can,
 
 ## What I'm building right now
 
-<p>
-  <a href="https://github.com/jmanuelrosa/triage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=triage&hide_border=true" alt="triage" /></a>
-  <a href="https://github.com/jmanuelrosa/trakdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=trakdown&hide_border=true" alt="trakdown" /></a>
-  <a href="https://github.com/jmanuelrosa/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuelrosa&repo=dotfiles&hide_border=true" alt="dotfiles" /></a>
-</p>
+- **[triage](https://github.com/jmanuelrosa/triage):** Native macOS menu-bar app that silently routes every clicked link to the right browser and Chrome profile. Rules in YAML.
+- **[trakdown](https://github.com/jmanuelrosa/trakdown):** Capture any web page as clean markdown for LLM context, even pages behind a login.
+- **[dotfiles](https://github.com/jmanuelrosa/dotfiles):** My Mac setup, scripted end to end.
 
 ## Where I'm useful
 
@@ -33,13 +31,6 @@ Senior software engineer at **[Didomi](https://didomi.io)**. I teach when I can,
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## A few numbers
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jmanuelrosa&show_icons=true&hide_border=true&hide=stars,issues" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelrosa&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
